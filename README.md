@@ -4,7 +4,7 @@
   <a href="mailto:nbletsas98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/nikolaos-bletsas" target="_blank">
+  <a href="https://www.linkedin.com/in/nikos-bletsas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://nikosmple.github.io/my-portfolio/" target="_blank">
