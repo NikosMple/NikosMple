@@ -1,6 +1,30 @@
-# 🕵️‍♂️ About Me:
-1️⃣ I hold a Bachelor’s degree in Computer Engineering from the University of Thessaly. 🎓<br><br>2️⃣ I am passionate about Full-Stack Web Development and constantly working on personal projects. 🚀<br><br>3️⃣ I take online courses and explore new technologies to improve my skills and stay up-to-date. 📚<br><br>4️⃣ I enjoy building scalable and efficient web solutions using React, Node.js, Express, and PostgreSQL. ⚡<br><br>5️⃣ I have a growing interest in Web3 and Blockchain to expand my knowledge of decentralized applications. 🔗
+<img align="center" src="https://camo.githubusercontent.com/7b8c225ae1ad1172688e7a65f9cfd5dc7a54fd5c1e612936815b0538ee5da919/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f746578743d48657925323045766572796f6e652126616e696d6174696f6e3d66616465496e26747970653d776176696e6726636f6c6f723d72616e646f6d26666f6e74436f6c6f723d336238326636266865696768743d3130302677696474683d31303025"/> 
 
+<h2 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Nikos+Bletsas;" />
+<h2/>
+  
+<h3 align="center">A passionate Full Stack developer from Greece</h3>
+
+<div align ="center">
+🎓 I hold a Bachelor’s degree in Computer Engineering from the University of Thessaly.<br><br>
+🚀 I am passionate about Full-Stack Web Development and constantly working on personal projects. <br><br>
+📚 I take online courses and explore new technologies to improve my skills and stay up-to-date. <br><br>
+⚡ I enjoy building scalable and efficient web solutions using React, Node.js, Express, and PostgreSQL.<br><br>
+🔗 I have a growing interest in Web3 and Blockchain to expand my knowledge of decentralized applications. 
+</div>
+
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nikos Bletsas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nbletsas98@gmail.com) 
