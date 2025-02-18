@@ -22,7 +22,6 @@
 }
 ```
 
----
 
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -43,17 +42,17 @@
 
 ---
 
-<div align="center"> 
+### 📫 Contact Me  
+<div align="center">
   <a href="mailto:nbletsas98@gmail.com">
-    <img src="https://img.icons8.com/?size=100&id=Ros6Kw5sh4Wx&format=png&color=000000" width="50" height="50"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nikos-bletsas/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=QmvaEKzz9PMF&format=png&color=000000" width="50" height="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://nikosmple.github.io/my-portfolio/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=kCZLs9TCh4Pw&format=png&color=000000" width="50" height="50"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white"/>
   </a>
 </div>
+
 
