@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello%2C%20I'm%20Nikos!&animation=fadeIn&type=waving&color=gradient&fontColor=white&height=180&fontSize=35" />
+  <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20GitHub!&animation=fadeIn&type=waving&color=gradient&fontColor=white&height=180&fontSize=35" />
 </div>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F7B93E&width=550&lines=Hey%2C+I'm+Nikos+Bletsas!+👋;Full-Stack+Developer+%7C+Blockchain+Enthusiast;Always+Learning+and+Building!🚀)  
