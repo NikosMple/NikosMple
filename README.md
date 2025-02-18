@@ -6,9 +6,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-<br />
 
 🎓 <strong>Bachelor’s in Computer Engineering</strong> – University of Thessaly <br>
 🚀 <strong>Passionate about Full-Stack Development</strong> – Always working on personal projects <br>
@@ -16,11 +13,9 @@
 ⚡ <strong>Specialized in:</strong> Scalable web solutions with React, Node.js, Express, and PostgreSQL <br>
 🔗 <strong>Currently diving deeper into Blockchain & Decentralized Applications</strong>  
 
+
 ---
 
-### 💻 Tech Stack
-
-<br />
 
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -40,10 +35,6 @@
 </div>
 
 ---
-
-### 📫 Connect with Me
-
-<br />
 
 📩 Email: [nbletsas98@gmail.com](mailto:nbletsas98@gmail.com)  
 💼 LinkedIn: [Nikos Bletsas](https://www.linkedin.com/in/nikos-bletsas/)  
