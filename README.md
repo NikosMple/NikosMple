@@ -6,16 +6,23 @@
 
 ---
 
-
-🎓 <strong>Bachelor’s in Computer Engineering</strong> – University of Thessaly <br>
-🚀 <strong>Passionate about Full-Stack Development</strong> – Always working on personal projects <br>
-📚 <strong>Continuous Learner</strong> – Exploring new technologies <br>
-⚡ <strong>Specialized in:</strong> Scalable web solutions with React, Node.js, Express, and PostgreSQL <br>
-🔗 <strong>Currently diving deeper into Blockchain & Decentralized Applications</strong>  
-
+```json
+{
+  "education": "Bachelor’s in Computer Engineering – University of Thessaly 🎓",
+  "passion": "Full-Stack Development – Always working on personal projects 🚀",
+  "learning": "Continuous Learner – Exploring new technologies 📚",
+  "specialization": [
+    "Scalable web solutions",
+    "React.js",
+    "Node.js",
+    "Express",
+    "PostgreSQL"
+  ],
+  "current_focus": "Blockchain & Decentralized Applications 🔗"
+}
+```
 
 ---
-
 
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -36,6 +43,17 @@
 
 ---
 
-📩 Email: [nbletsas98@gmail.com](mailto:nbletsas98@gmail.com)  
-💼 LinkedIn: [Nikos Bletsas](https://www.linkedin.com/in/nikos-bletsas/)  
-🌍 Portfolio: [My Portfolio](https://nikosmple.github.io/my-portfolio/)  
+<div align="center"> 
+  <a href="mailto:nbletsas98@gmail.com">
+    <img src="https://img.icons8.com/?size=100&id=Ros6Kw5sh4Wx&format=png&color=000000" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nikos-bletsas/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=QmvaEKzz9PMF&format=png&color=000000" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://nikosmple.github.io/my-portfolio/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=kCZLs9TCh4Pw&format=png&color=000000" width="50" height="50"/>
+  </a>
+</div>
+
